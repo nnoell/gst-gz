@@ -13,7 +13,7 @@ depcomp
 install-sh
 ltmain.sh
 missing
-Makefile
+./Makefile
 config.log
 config.status
 libtool
