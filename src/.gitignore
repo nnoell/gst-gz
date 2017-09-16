@@ -1,0 +1,8 @@
+gstgzdec.o
+gstgz.o
+libgstgz.so
+.deps/
+.libs/
+libgstgz.la
+libgstgz_la-gstgz.lo
+libgstgz_la-gstgzdec.lo
